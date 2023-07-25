@@ -278,3 +278,4 @@ with tab3:
             st.write(df)
         mydb.commit()
 
+                     st.caption("Made with 🤩 by @samuelsamraj")
